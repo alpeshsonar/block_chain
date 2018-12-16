@@ -7,7 +7,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Blueprint: Horizontal Slide Out Menu</title>
+<title>Home</title>
 <meta name="description" content="Blueprint: Horizontal Slide Out Menu" />
 <meta name="keywords"
 	content="horizontal, slide out, menu, navigation, responsive, javascript, images, grid" />
@@ -88,9 +88,9 @@
 
 	<div class="container">
 		<header class="clearfix">
-			<span>Blueprint <span class="bp-icon bp-icon-about"
-				data-content="The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration."></span></span>
-			<h1>Horizontal Slide Out Menu</h1>
+			<span>Seeds for prosperity <span class="bp-icon bp-icon-about"
+				data-content="Food is not simply an organic fuel to keep body and soul together; it is a perishable art that must be savored at the peak of perfection."></span></span>
+			<h1>Nirmal Seeds</h1>
 			<nav>
 			<% 
 				if(name !=null && !name.isEmpty())
