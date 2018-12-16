@@ -1,0 +1,20 @@
+# Server Configuration
+server:
+  port: 9090
+
+# Database
+spring: 
+  application: 
+    name: BlockChain 
+  datasource: 
+    url: jdbc:mysql://localhost:3306/block_chain
+    username: root
+    password: root
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+
+  resources:
+    static-locations: /webapp/assets/
+      
